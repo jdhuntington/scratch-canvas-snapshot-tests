@@ -1,0 +1,164 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renderStringInContext renders for a snapshot (Proposal of jest style going forward) 1`] = `
+Array [
+  Object {
+    "props": Object {
+      "angle": 0.1,
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "rotate",
+  },
+  Object {
+    "props": Object {
+      "maxWidth": null,
+      "text": "Awesome",
+      "x": 50,
+      "y": 100,
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "fillText",
+  },
+  Object {
+    "props": Object {
+      "text": "Awesome!",
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "measureText",
+  },
+  Object {
+    "props": Object {
+      "value": "rgba(0, 0, 0, 0.5)",
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "strokeStyle",
+  },
+  Object {
+    "props": Object {},
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "beginPath",
+  },
+  Object {
+    "props": Object {
+      "x": 50,
+      "y": 102,
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "lineTo",
+  },
+  Object {
+    "props": Object {
+      "x": 58,
+      "y": 102,
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "lineTo",
+  },
+  Object {
+    "props": Object {
+      "path": Array [
+        Object {
+          "props": Object {},
+          "transform": Array [
+            0.9950041652780257,
+            0.09983341664682815,
+            -0.09983341664682815,
+            0.9950041652780257,
+            0,
+            0,
+          ],
+          "type": "beginPath",
+        },
+        Object {
+          "props": Object {
+            "x": 50,
+            "y": 102,
+          },
+          "transform": Array [
+            0.9950041652780257,
+            0.09983341664682815,
+            -0.09983341664682815,
+            0.9950041652780257,
+            0,
+            0,
+          ],
+          "type": "lineTo",
+        },
+        Object {
+          "props": Object {
+            "x": 58,
+            "y": 102,
+          },
+          "transform": Array [
+            0.9950041652780257,
+            0.09983341664682815,
+            -0.09983341664682815,
+            0.9950041652780257,
+            0,
+            0,
+          ],
+          "type": "lineTo",
+        },
+      ],
+    },
+    "transform": Array [
+      0.9950041652780257,
+      0.09983341664682815,
+      -0.09983341664682815,
+      0.9950041652780257,
+      0,
+      0,
+    ],
+    "type": "stroke",
+  },
+]
+`;

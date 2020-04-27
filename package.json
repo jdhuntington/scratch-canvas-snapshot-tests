@@ -5,7 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.4",
+    "canvas": "^2.6.1",
     "jest": "^25.4.0",
+    "jest-canvas-mock": "^2.2.0",
     "ts-jest": "^25.4.0",
     "typescript": "^3.8.3"
   }
